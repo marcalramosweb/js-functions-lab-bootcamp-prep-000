@@ -7,10 +7,10 @@ function happyHolidays(){
 happyHolidays()
 
 function happyHolidaysTo(john){
-  return `Happy holidays!, ${john}`
+  return `Happy holidays!, ${john}!`
 }
 
-happyHolidaysTo('you!')
+happyHolidaysTo('Ramos')
 
 function happyHolidayTo(holiday, john){
   return `Happy ${holiday}, ${john}`
