@@ -23,5 +23,5 @@ function holidayCountdown(travel, numDays){
   return `It\'s ${numDays} days until ${travel}!`
 }
 
-holidayCountdown('Mother\'s Day, 20)
+holidayCountdown('Mother\'s Day', 20)
 
