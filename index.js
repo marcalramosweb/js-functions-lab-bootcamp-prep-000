@@ -20,7 +20,7 @@ happyHolidayTo('Independence Day', 'Ramos')
 
 
 function holidayCountdown(travel, numDays){
-  return `It's ${numDays}, until ${travel}`
+  return `It\'s ${numDays} days until ${travel}!`
 }
 
 holidayCountdown(20, 'until Mother\'s Day')
